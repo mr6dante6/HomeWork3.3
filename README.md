@@ -7,5 +7,8 @@
 > На работе работаю, в свободное время много чем занимаюсь.
 ### Ещё требуется закинуть какие-нибудь картинки:
 
-![картинка1](https://github.com/mr6dante6/HomeWork3.3/blob/main/a20a2fcebed4436998216af506fb.jpg)
-![картинка2](https://github.com/mr6dante6/HomeWork3.3/blob/main/1899_TV_poster.jpg)
+![картинка1](a20a2fcebed4436998216af506fb.jpg)
+![картинка2](1899_TV_poster.jpg)
+
+merkdown: kramdown
+theme: minima
